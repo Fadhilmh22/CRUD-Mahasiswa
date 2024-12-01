@@ -2,7 +2,7 @@
 # Panduan Instalasi :
 
 1. Download dan Instal Aplikasi Xampp/Laragon dan Composer di Komputer.<br>
-2. Clone source code tersebut dengan git clone https://gitlab.com/lghani/invoice.git.<br>
+2. Clone source code tersebut dengan git clone https://github.com/Fadhilmh22/CRUD-Mahasiswa.git.<br>
 3. Aktifkan Apache dan MySQL pada Laragon.<br>
 4. Buka heidisql, lalu buka session.<br>
 5. Buat database baru dengan nama mahasiswa.<br>
